@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--Title: "Sample file for the PHCR Positive Pertussis Report"
     Version: Draft
     Revision History: 14/12/2016 
@@ -46,7 +46,7 @@ CDA Header
 			<telecom value="tel:+1(555)555-2004" use="WP"/>
 			<patient classCode="PSN" determinerCode="INSTANCE">
 				<name use="L">
-					<given partType="GIV" representation="TXT" mediaType="text/plain">Adam</given>
+					<given partType="GIV" representation="TXT" mediaType="text/plain">Deepak</given>
 					<given qualifier="IN" partType="GIV" representation="TXT" mediaType="text/plain">A</given>
 					<family partType="FAM" representation="TXT" mediaType="text/plain">Everyman</family>
 				</name>
