@@ -46,7 +46,11 @@ CDA Header
 			<telecom value="tel:+1(555)555-2004" use="WP"/>
 			<patient classCode="PSN" determinerCode="INSTANCE">
 				<name use="L">
+<<<<<<< HEAD
 					<given partType="GIV" representation="TXT" mediaType="text/plain">Deepak</given>
+=======
+					<given partType="GIV" representation="TXT" mediaType="text/plain">Rajiv</given>
+>>>>>>> 0d37631e167923510a8b8b3b1df3d994c522a74a
 					<given qualifier="IN" partType="GIV" representation="TXT" mediaType="text/plain">A</given>
 					<family partType="FAM" representation="TXT" mediaType="text/plain">Everyman</family>
 				</name>
